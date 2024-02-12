@@ -99,9 +99,10 @@ h6 {
   margin-bottom: 0.5rem;
 }
 
-p {
+p span {
   margin-top: 0;
   margin-bottom: 1rem;
+  color: #ffbd39;
 }
 
 abbr[title],
@@ -193,6 +194,11 @@ a:not([href]):not([tabindex]):focus {
 }
 a:not([href]):not([tabindex]):focus {
   outline: 0;
+}
+
+h1,
+h2 span {
+  color: #ffbd39;
 }
 
 pre,
