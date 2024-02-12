@@ -99,6 +99,9 @@ h6 {
   margin-bottom: 0.5rem;
 }
 
+p {
+  color: white;
+}
 p span {
   margin-top: 0;
   margin-bottom: 1rem;
@@ -194,11 +197,6 @@ a:not([href]):not([tabindex]):focus {
 }
 a:not([href]):not([tabindex]):focus {
   outline: 0;
-}
-
-h1,
-h2 span {
-  color: #ffbd39;
 }
 
 pre,
@@ -10680,7 +10678,7 @@ h5,
 .h4,
 .h5 {
   line-height: 1.5;
-  color: white;
+  color: #ffbd39;
   font-weight: 400;
 }
 
