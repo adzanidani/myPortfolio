@@ -1,2 +1,2 @@
-# myPortfolio
-Adzani's Career Journey
+# myPortofolio
+ Adzani's Career Journey
